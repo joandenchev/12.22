@@ -1,1 +1,4 @@
 /Files/
+/node_modules/
+/.idea/
+/.gitignore/
